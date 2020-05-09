@@ -75,10 +75,11 @@ margin-left: 15%;
 	float: left;
 	margin-top: 20px;
 	margin-left: 10%;
-	
+	width: 50%;
 }
 .connect img{
 	 margin-top: 20px;
+	 float: left;
 	 
     
 }
@@ -89,13 +90,12 @@ margin-left: 15%;
 	padding-top: 20px;
 	font-size: 25px;
 	font-family: vardena;
-	width: 100%;
 }
 
 .form{
 	margin-top: 20px;
-	float: right;
-	width: 38%;
+	float: left;
+	width: 40%;
 }
 .form input[type="text"]{
 	width: 200px;
